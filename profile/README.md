@@ -1,3 +1,3 @@
-[Main Repo](https://github.com/supchyan/lolibar)
+🌸 [Main Repo](https://github.com/supchyan/lolibar)
 
-[Autorun Repo](https://github.com/supchyan/lolibar-autorun)
+🌸 [Autorun Repo](https://github.com/supchyan/lolibar-autorun)
